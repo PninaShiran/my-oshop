@@ -1,6 +1,7 @@
 # MyOshop
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+the product page ![Uploading image.png…]()
+
 
 ## Development server
 
